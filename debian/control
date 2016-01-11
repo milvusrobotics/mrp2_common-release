@@ -1,0 +1,12 @@
+Source: ros-indigo-mrp2-description
+Section: misc
+Priority: extra
+Maintainer: Akif Hacinecipoglu <akifhno@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf
+Homepage: http://wiki.ros.org/Robots/MRP2
+Standards-Version: 3.9.2
+
+Package: ros-indigo-mrp2-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf
+Description: URDF and xacro description files for MRP2.
