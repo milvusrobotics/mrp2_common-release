@@ -1,0 +1,12 @@
+Source: ros-indigo-mrp2-common
+Section: misc
+Priority: extra
+Maintainer: Akif Hacinecipoglu <akifhno@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/Robots/MRP2
+Standards-Version: 3.9.2
+
+Package: ros-indigo-mrp2-common
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-mrp2-description
+Description: Necessary packages in common for both simulation and real environment.
