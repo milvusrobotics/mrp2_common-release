@@ -1,0 +1,10 @@
+ros-indigo-mrp2-navigation (0.2.1-0trusty) trusty; urgency=high
+
+  * Organized code and structure
+  * Directory structure update
+  * Initial commit
+  * Contributors: Akif, orhangazi44
+
+ -- Akif Hacinecipoglu <akifhno@gmail.com>  Thu, 07 Jan 2016 22:00:00 -0000
+
+
