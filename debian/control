@@ -1,0 +1,12 @@
+Source: ros-indigo-mrp2-control
+Section: misc
+Priority: extra
+Maintainer: Akif Hacinecipoglu <akifhno@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-controller-manager, ros-indigo-diff-drive-controller, ros-indigo-interactive-marker-twist-server, ros-indigo-joint-state-controller, ros-indigo-joy, ros-indigo-robot-localization
+Homepage: http://wiki.ros.org/Robots/MRP2
+Standards-Version: 3.9.2
+
+Package: ros-indigo-mrp2-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-controller-manager, ros-indigo-diff-drive-controller, ros-indigo-interactive-marker-twist-server, ros-indigo-joint-state-controller, ros-indigo-joy, ros-indigo-robot-localization
+Description: Teleoperation and ros controls related launch files and configurations.
