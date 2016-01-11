@@ -1,0 +1,12 @@
+Source: ros-indigo-mrp2-navigation
+Section: misc
+Priority: extra
+Maintainer: Akif Hacinecipoglu <akifhno@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-amcl, ros-indigo-catkin, ros-indigo-gmapping, ros-indigo-map-server, ros-indigo-move-base, ros-indigo-urdf, ros-indigo-xacro
+Homepage: http://wiki.ros.org/Robots/MRP2
+Standards-Version: 3.9.2
+
+Package: ros-indigo-mrp2-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-amcl, ros-indigo-gmapping, ros-indigo-map-server, ros-indigo-move-base, ros-indigo-urdf, ros-indigo-xacro
+Description: Launch files, parameters and maps for different navigation applications.
