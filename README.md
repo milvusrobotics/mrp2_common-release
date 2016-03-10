@@ -1,3 +1,31 @@
+## mrp2_common (indigo) - 0.2.2-0
+
+The packages in the `mrp2_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release mrp2_common --rosdistro indigo --track indigo` on `Thu, 10 Mar 2016 07:53:17 -0000`
+
+These packages were released:
+- `mrp2_analyzer`
+- `mrp2_common`
+- `mrp2_control`
+- `mrp2_description`
+- `mrp2_navigation`
+
+Version of package(s) in repository `mrp2_common`:
+
+- upstream repository: https://github.com/milvusrobotics/mrp2_common.git
+- release repository: https://github.com/milvusrobotics/mrp2_common-release.git
+- rosdistro version: `0.2.1-1`
+- old version: `0.2.1-1`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## mrp2_common (indigo) - 0.2.1-1
 
 The packages in the `mrp2_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release mrp2_common --rosdistro indigo --track indigo --edit` on `Mon, 11 Jan 2016 09:48:57 -0000`
