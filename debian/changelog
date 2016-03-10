@@ -1,0 +1,20 @@
+ros-indigo-mrp2-description (0.2.2-0saucy) saucy; urgency=high
+
+  * Fixed laser viz
+  * Added sonar sensors to URDF
+  * Updated package informations
+  * Updated parameters
+  * Contributors: Akif, MRP2 Dev
+
+ -- Akif Hacinecipoglu <akifhno@gmail.com>  Wed, 09 Mar 2016 22:00:00 -0000
+
+ros-indigo-mrp2-description (0.2.1-0saucy) saucy; urgency=high
+
+  * Organized code and structure
+  * Directory structure update
+  * Initial commit
+  * Contributors: Akif
+
+ -- Akif Hacinecipoglu <akifhno@gmail.com>  Thu, 07 Jan 2016 22:00:00 -0000
+
+
