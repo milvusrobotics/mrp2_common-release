@@ -2,6 +2,9 @@
 Changelog for package mrp2_analyzer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.3 (2016-08-16)
+------------------
+
 0.2.2 (2016-03-10)
 ------------------
 * Updated package informations
