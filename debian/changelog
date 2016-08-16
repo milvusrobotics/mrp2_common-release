@@ -1,0 +1,29 @@
+ros-indigo-mrp2-control (0.2.3-0saucy) saucy; urgency=high
+
+  * Enabled robot_localization
+  * Updated navigation
+  * Contributors: Akif
+
+ -- Akif Hacinecipoglu <akifhno@gmail.com>  Mon, 15 Aug 2016 21:00:00 -0000
+
+ros-indigo-mrp2-control (0.2.2-0saucy) saucy; urgency=high
+
+  * Updated package informations
+  * Merged controls.yaml
+  * Updated parameters
+  * Changed config naming
+  * Configuration files seperated for amcl and gmapping. Fixed params. Updated maps.
+  * Contributors: Akif, MRP2 Dev, orhangazi44
+
+ -- Akif Hacinecipoglu <akifhno@gmail.com>  Wed, 09 Mar 2016 22:00:00 -0000
+
+ros-indigo-mrp2-control (0.2.1-0saucy) saucy; urgency=high
+
+  * Merged config files
+  * Directory structure update
+  * Initial commit
+  * Contributors: Akif, MRP2 Development, orhangazi44
+
+ -- Akif Hacinecipoglu <akifhno@gmail.com>  Thu, 07 Jan 2016 22:00:00 -0000
+
+
