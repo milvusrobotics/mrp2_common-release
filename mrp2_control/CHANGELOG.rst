@@ -2,6 +2,12 @@
 Changelog for package mrp2_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.3 (2016-08-16)
+------------------
+* Enabled robot_localization
+* Updated navigation
+* Contributors: Akif
+
 0.2.2 (2016-03-10)
 ------------------
 * Updated package informations
