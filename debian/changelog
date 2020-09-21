@@ -1,0 +1,28 @@
+ros-melodic-mrp2-slam (1.0.1-1bionic) bionic; urgency=high
+
+  * version bump to 1.0.0
+  * package maintainers updated
+  * refactor: mrp2_slam --> mrp2_mapping
+  * Contributors: OnurDz
+
+ -- Emir Cem Gezer <emircem.g@milvusrobotics.com>  Sun, 20 Sep 2020 21:00:00 -0000
+
+ros-melodic-mrp2-slam (0.2.3-1bionic) bionic; urgency=high
+
+
+
+ -- Emir Cem Gezer <emircem.g@milvusrobotics.com>  Mon, 15 Aug 2016 21:00:00 -0000
+
+ros-melodic-mrp2-slam (0.2.2-1bionic) bionic; urgency=high
+
+
+
+ -- Emir Cem Gezer <emircem.g@milvusrobotics.com>  Wed, 09 Mar 2016 22:00:00 -0000
+
+ros-melodic-mrp2-slam (0.2.1-1bionic) bionic; urgency=high
+
+
+
+ -- Emir Cem Gezer <emircem.g@milvusrobotics.com>  Thu, 07 Jan 2016 22:00:00 -0000
+
+
