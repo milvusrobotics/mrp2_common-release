@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
   <name>mrp2_common</name>
-  <version>0.2.3</version>
+  <version>1.0.1</version>
   <description>Necessary packages in common for both simulation and real environment.</description>
-  <maintainer email="akifhno@gmail.com">Akif Hacinecipoglu</maintainer>
+  <maintainer email="emircem.g@milvusrobotics.com">Emir Cem Gezer</maintainer>
   <license>BSD</license>
 
   <author email="akifhno@gmail.com">Akif Hacinecipoglu</author>
@@ -11,8 +11,7 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>mrp2_analyzer</run_depend>
-  <run_depend>mrp2_control</run_depend>
+  <run_depend>mrp2_teleop</run_depend>
   <run_depend>mrp2_description</run_depend>
   <run_depend>mrp2_navigation</run_depend>
 

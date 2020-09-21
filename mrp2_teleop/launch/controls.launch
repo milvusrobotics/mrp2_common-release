@@ -1,0 +1,5 @@
+<launch>
+  <rosparam command="load" file="$(find mrp2_teleop)/config/controls.yaml" />
+
+  <node pkg="robot_localization" type="ekf_localization_node" name="ekf_localization" />
+</launch>
