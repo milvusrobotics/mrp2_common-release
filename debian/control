@@ -1,0 +1,12 @@
+Source: ros-melodic-mrp2-navigation
+Section: misc
+Priority: optional
+Maintainer: Emir Cem Gezer <emircem.g@milvusrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-amcl, ros-melodic-cartographer, ros-melodic-catkin, ros-melodic-gmapping, ros-melodic-map-server, ros-melodic-move-base, ros-melodic-urdf, ros-melodic-xacro
+Homepage: http://wiki.ros.org/mrp2_navigation
+Standards-Version: 3.9.2
+
+Package: ros-melodic-mrp2-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-amcl, ros-melodic-cartographer, ros-melodic-gmapping, ros-melodic-map-server, ros-melodic-move-base, ros-melodic-urdf, ros-melodic-xacro
+Description: Launch files, parameters and maps for different navigation applications.
